@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is Baby Yoda](https://miro.medium.com/max/1400/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg)
